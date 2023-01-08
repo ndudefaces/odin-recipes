@@ -1,2 +1,3 @@
 # odin-recipes
 Odin Recipes Project
+Hello! This is my Odin Recipes Project. I'm really excited that I've learned this much with the resources provided by the Odin Project; I was initially hesitant to move into this field because it seemed super complicated and esoteric, but I'm (cautiously) pleasantly surprised that it's not entirely impenetrable. Hopefully I can retain the same confidence moving forward, hope you enjoy the project!
